@@ -1,0 +1,13 @@
+body{
+background-image: url(fondo4.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+min-height: 100%
+}
+
+#texto{
+	width: 50rem;
+	opacity: 0.8;
+
+}
